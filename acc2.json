@@ -1,0 +1,68 @@
+[
+    {
+        "dataset": "breast_cancer",
+        "correlation_threshold": 0.92,
+        "total_erf_trees": 36,
+        "total_irf_trees": 44,
+        "irf_auc": 0.9519550665383997,
+        "erf_auc": 0.9519094160297864
+    },
+    {
+        "dataset": "Titanic",
+        "correlation_threshold": 0.92,
+        "total_erf_trees": 55,
+        "total_irf_trees": 89,
+        "irf_auc": 0.8258482267750141,
+        "erf_auc": 0.8303042585671419
+    },
+    {
+        "dataset": "Adult Income",
+        "correlation_threshold": 0.9,
+        "total_erf_trees": 96,
+        "total_irf_trees": 184,
+        "irf_auc": 0.8501450413284755,
+        "erf_auc": 0.844702468777419
+    },
+    {
+        "dataset": "Diabetes",
+        "correlation_threshold": 0.86,
+        "total_erf_trees": 165,
+        "total_irf_trees": 172,
+        "irf_auc": 0.6982478197674417,
+        "erf_auc": 0.697364141414141
+    },
+    {
+        "dataset": "Letter",
+        "correlation_threshold": 0.8,
+        "total_erf_trees": 152,
+        "total_irf_trees": 164,
+        "irf_auc": 0.9189795828157197,
+        "erf_auc": 0.9189795828157197
+    },
+    {
+        "dataset":"OptDigits",
+        "correlation_threshold":0.73,
+        "total_erf_trees": 57,
+        "total_irf_trees": 59,
+        "irf_auc": 0.9319629577207474,
+        "erf_auc": 0.9318836346391993
+    },
+    {
+        "dataset":"satimage",
+        "correlation_threshold":89,
+        "total_erf_trees": 28,
+        "total_irf_trees": 40,
+        "irf_auc": 0.9438757845628739,
+        "erf_auc": 0.9422038432074721
+    },
+    { 
+        "dataset":"MNIST",
+        "correlation_threshold":0.87,
+        "total_erf_trees": 35,
+        "total_irf_trees": 40,
+        "irf_auc": 0.9156051045654209,
+        "erf_auc": 0.9155041045674109
+    }
+
+
+]

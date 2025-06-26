@@ -1,0 +1,43 @@
+[
+    {
+      "Dataset": "Titanic",
+      "RF (Mean AUC)": 0.75,
+      "RRF (Mean AUC)": 0.83
+    },
+    {
+      "Dataset": "Breast Cancer",
+      "RF (Mean AUC)": 0.92,
+      "RRF (Mean AUC)": 0.95
+    },
+    {
+      "Dataset": "Diabetes",
+      "RF (Mean AUC)": 0.65,
+      "RRF (Mean AUC)": 0.71
+    },
+    {
+      "Dataset": "Adult Income",
+      "RF (Mean AUC)": 0.74,
+      "RRF (Mean AUC)": 0.86
+    },
+    {
+      "Dataset": "MNIST",
+      "RF (Mean AUC)": 0.90,
+      "RRF (Mean AUC)": 0.91
+    },
+    {
+      "Dataset": "Letter",
+      "RF (Mean AUC)": 0.87,
+      "RRF (Mean AUC)": 0.92
+    },
+    {
+      "Dataset": "Sat Image",
+      "RF (Mean AUC)": 0.89,
+      "RRF (Mean AUC)": 0.94
+    },
+    {
+      "Dataset": "OptDigits",
+      "RF (Mean AUC)": 0.90,
+      "RRF (Mean AUC)": 0.93
+    }
+  ]
+  
