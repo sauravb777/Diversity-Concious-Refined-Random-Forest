@@ -5,4 +5,4 @@ This repository contains an implementation of **Diversity Conscious Refined Rand
 DCRRF aims to reduce redundancy and inference cost in Random Forests by:
 - Iteratively removing least-informative features (feature refinement).
 - Analytically deciding how many new trees to add per iteration.
-- Measuring per-tree AUCs and clustering trees by pairwise correlation, then selecting the top-performing (highest AUC) uncorrelated tree from each cluster to form a compact, diverse ensemble. :contentReference[oaicite:2]{index=2}
+- Measuring per-tree AUCs and clustering trees by pairwise correlation, then selecting the top-performing (highest AUC) uncorrelated tree from each cluster to form a compact, diverse ensemble.
